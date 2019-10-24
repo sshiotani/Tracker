@@ -9,7 +9,4 @@ Write a vehicle tracking system. This should allow someone to track a car, truck
 
 The user interface is up to you.
 
-We will be calling the following week to schedule interviews, for those who are chosen from this exercise.
-
-If you have something preventing you from being able to finish this task by the 7th, please email me at bdsmith@co.davis.ut.us
 </p>
